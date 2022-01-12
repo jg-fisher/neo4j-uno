@@ -50,7 +50,7 @@ parso==0.3.1
 pbr==5.1.1
 pickleshare==0.7.5
 Pillow==5.3.0
-pipenv==2018.10.13
+pipenv==2022.1.8
 pluggy==0.8.1
 portpicker==1.2.0
 prometheus-client==0.5.0
